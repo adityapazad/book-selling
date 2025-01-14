@@ -1,0 +1,17 @@
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\Ecommerce.Project.02.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\Ecommerce.Project.02.DataAccess.AssemblyInfoInputs.cache
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\Ecommerce.Project.02.DataAccess.AssemblyInfo.cs
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\Ecommerce.Project.02.DataAccess.csproj.CoreCompileInputs.cache
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\bin\Debug\net6.0\Ecommerce.Project.02.DataAccess.deps.json
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\bin\Debug\net6.0\Ecommerce.Project.02.DataAccess.dll
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\bin\Debug\net6.0\Ecommerce.Project.02.DataAccess.pdb
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\Ecommerce.Project.02.DataAccess.csproj.AssemblyReference.cache
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\Ecommerce.Project.02.DataAccess.dll
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\refint\Ecommerce.Project.02.DataAccess.dll
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\Ecommerce.Project.02.DataAccess.pdb
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\ref\Ecommerce.Project.02.DataAccess.dll
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\bin\Debug\net6.0\Ecommerce.Project.02.DataAccess.runtimeconfig.json
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\Ecommerce.Project.02.DataAccess.genruntimeconfig.cache
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\bin\Debug\net6.0\Ecommerce.Project.02.Models.dll
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\bin\Debug\net6.0\Ecommerce.Project.02.Models.pdb
+E:\.NET CORE MVC\Ecommerce.Project.02\Ecommerce.Project.02.DataAccess\obj\Debug\net6.0\Ecommerc.3CE39108.Up2Date
