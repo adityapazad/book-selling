@@ -8104,11 +8104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.DataAccess\\Ecommerce.Project.02.DataAccess.csproj",
+      "projectUniqueName": "E:\\Workspace\\Visual Studio 2022\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.DataAccess\\Ecommerce.Project.02.DataAccess.csproj",
       "projectName": "Ecommerce.Project.02.DataAccess",
-      "projectPath": "E:\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.DataAccess\\Ecommerce.Project.02.DataAccess.csproj",
+      "projectPath": "E:\\Workspace\\Visual Studio 2022\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.DataAccess\\Ecommerce.Project.02.DataAccess.csproj",
       "packagesPath": "C:\\Users\\eddie\\.nuget\\packages\\",
-      "outputPath": "E:\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.DataAccess\\obj\\",
+      "outputPath": "E:\\Workspace\\Visual Studio 2022\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8130,8 +8130,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.Models\\Ecommerce.Project.02.Models.csproj": {
-              "projectPath": "E:\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.Models\\Ecommerce.Project.02.Models.csproj"
+            "E:\\Workspace\\Visual Studio 2022\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.Models\\Ecommerce.Project.02.Models.csproj": {
+              "projectPath": "E:\\Workspace\\Visual Studio 2022\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.Models\\Ecommerce.Project.02.Models.csproj"
             }
           }
         }

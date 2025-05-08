@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xct3UDKEL8U=",
+  "dgSpecHash": "2i5DpdfdX9w=",
   "success": true,
-  "projectFilePath": "E:\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.DataAccess\\Ecommerce.Project.02.DataAccess.csproj",
+  "projectFilePath": "E:\\Workspace\\Visual Studio 2022\\.NET CORE MVC\\Ecommerce.Project.02\\Ecommerce.Project.02.DataAccess\\Ecommerce.Project.02.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eddie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\eddie\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
